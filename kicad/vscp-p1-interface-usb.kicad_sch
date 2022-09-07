@@ -1491,7 +1491,7 @@
     (property "Footprint" "Connector_USB:USB_B_Amphenol_MUSB-D511_Vertical_Rugged" (id 2) (at 99.06 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.digikey.se/sv/products/detail/adam-tech/USB-B-S-RA-WT-SPCC/9832261" (id 3) (at 99.06 124.46 0)
+    (property "Datasheet" "https://www.tme.eu/se/details/tueb4f2d0b/usb-och-ieee1394-kontaktdon/amphenol-communications-solutions/" (id 3) (at 99.06 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ae794fd1-8298-4bf7-92bd-7658bac928b5))
